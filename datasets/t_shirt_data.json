@@ -100,7 +100,8 @@
       {"name":"tshirt_category","type":"string"},
       {"name":"tshirt_price","type":"double"},
       {"name":"tshirt_quantity","type":"bigint"},
-      {"name":"total","type":"double"}
+      {"name":"total","type":"double"},
+      {"name":"total_in_euros","type":"double"}
     ],
     "userModified": false
   },
